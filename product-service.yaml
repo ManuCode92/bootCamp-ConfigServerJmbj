@@ -1,0 +1,10 @@
+server:
+  port: 9080
+product:
+  product-name: Zapatillas de Deporte (Roja) 2222
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
